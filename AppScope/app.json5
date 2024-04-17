@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "top.handwer.Shadown7z",
+    "vendor": "handwer",
+    "versionCode": 1400,
+    "versionName": "0.14.0",
+    "icon": "$media:my_app_icon",
+  //  "label": "$string:app_name"
+    "label": "$string:app_name"
+  }
+}

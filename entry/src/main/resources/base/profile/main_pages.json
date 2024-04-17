@@ -1,0 +1,25 @@
+{
+  "src": [
+    "pages/SmartTaskIndex",
+    "pages/About",
+    "pages/OOBE",
+    "pages/welcomePage",
+    "pages/illustrate",
+    "pages/LoginPage",
+    "pages/MainPage",
+    "pages/registerPage",
+    "pages/Index",
+    "pages/PoetryIndex",
+    "pages/NavigationIndex",
+    "pages/AnimationPage",
+    "pages/Logo",
+    "pages/FoodDetailAnimation",
+    "pages/FoodDetailComponent",
+    "pages/components/DietRecord",
+    "pages/SettingIndex",
+    "pages/ExpressInquiryComponent",
+    "pages/ShortVideo",
+    "pages/TimeA",
+    "pages/Detail"
+  ]
+}
