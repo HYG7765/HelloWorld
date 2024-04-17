@@ -16,3 +16,4 @@ AppScope filter=lfs diff=lfs merge=lfs -text
 LICENSE filter=lfs diff=lfs merge=lfs -text
 hvigorfile.ts filter=lfs diff=lfs merge=lfs -text
 screenshots filter=lfs diff=lfs merge=lfs -text
+shadow-tool-box filter=lfs diff=lfs merge=lfs -text
